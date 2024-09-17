@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory With Windows Server 2019 Home Lab (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Active Directory With Windows Server 2019 Home Lab </b>
+  - [Implementation of Windows Active Directory](https://github.com/ArtzSantoyo/Windows-Active-Directory)
+    
 - <b>Nessus vulnerability scanner</b>
   - 
 - <b>PowerShell</b>
