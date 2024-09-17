@@ -6,7 +6,7 @@
   - [Implementation of Windows Active Directory](https://github.com/ArtzSantoyo/Windows-Active-Directory)
     
 - <b>Nessus vulnerability scanner</b>
-  - 
+  - [Looking for vulnerabilities with nessus] (https://github.com/ArtzSantoyo/NessusScan/tree/main)
 - <b>PowerShell</b>
  
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
