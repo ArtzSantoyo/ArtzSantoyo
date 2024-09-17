@@ -19,6 +19,7 @@
 
  
   <h2>Certifications:</h2>  
+  
   - Google Cybersecurity Professional Certificate (https://www.coursera.org/account/accomplishments/specialization/ABRY43A2RLAU)
   
   - Comptia Security + (https://www.credly.com/badges/672fc87c-1e07-4d84-83cb-d2c7d1a25770/linked_in_profile)
