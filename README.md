@@ -8,7 +8,7 @@
 - <b>Nessus vulnerability scanner</b>
   - [Looking for vulnerabilities with nessus](https://github.com/ArtzSantoyo/NessusScan/tree/main)
  
-- <b>SOC Automatation</b>
+- <b>SOC Automation</b>
 
 - <b>SOAR EDR</b>
   
