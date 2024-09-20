@@ -1,5 +1,8 @@
 <h1>Hi, I'm Manuel! <br/><a href="(https://github.com/ArtzSantoyo/ArtzSantoyo)"> <a href="(https://www.linkedin.com/in/manuel-santoyo-artz/)">Cybersecurity Professional</a>
 
+Welcome to my GitHub portfolio
+Im Focusing myself on Blue Team skills, aspiring to work as a SOC analyst, I am Also interested in IAM and clouds technology, here you can see my projects and technical prowess.
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory With Windows Server 2019 Home Lab </b>
@@ -11,10 +14,9 @@
 - <b>SOC Automation</b>
 
 - <b>SOAR EDR</b>
+In progress...
   
-- <b>PowerShell</b>
- 
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+
 
 
 
