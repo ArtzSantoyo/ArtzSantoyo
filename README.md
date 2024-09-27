@@ -1,4 +1,4 @@
-<h1>Hi, I'm Manuel! <br/><a href="(https://github.com/ArtzSantoyo/ArtzSantoyo)"> <a href="(https://www.linkedin.com/in/manuel-santoyo-artz/)">Cybersecurity Professional</a>
+<h1>Hi, I'm Manuel! <br/><a href="(https://github.com/ArtzSantoyo/ArtzSantoyo)"> <a href="(https://www.linkedin.com/in/manuel-santoyo-artz/)"> An Aspiring Cybersecurity Professional</a>
 
 <h2> Welcome to my GitHub portfolio
 Im Focusing myself on Blue Team skills, aspiring to work as a SOC analyst, I am Also interested in IAM and clouds technology, here you can see my projects and technical prowess. </h2>
