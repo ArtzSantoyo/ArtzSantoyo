@@ -11,7 +11,7 @@ Im Focusing myself on Blue Team skills, aspiring to work as a SOC analyst, I am 
 - <b>Nessus vulnerability scanner</b>
   - [Looking for vulnerabilities with nessus](https://github.com/ArtzSantoyo/NessusScan/tree/main)
  
-- <b>SOC Automation</b> (Documenting)
+- <b>SOC Automation</b>
   - [A SOC environment using Wazuh and TheHive integrated with Shuffle](https://github.com/ArtzSantoyo/SoarAut/tree/main)
 
 - <b>SOAR EDR</b>
